@@ -27,4 +27,10 @@ public class MainActivity extends AppCompatActivity {
         Intent i  = new Intent (MainActivity.this, Activity_ss_64.class);
         startActivity(i);
     }
+
+    public void tamamGoster(View view) {
+        Intent i  = new Intent (MainActivity.this, SS65.class);
+        startActivity(i);
+
+    }
 }
