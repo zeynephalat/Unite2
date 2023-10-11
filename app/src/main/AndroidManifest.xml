@@ -14,6 +14,21 @@
         android:theme="@style/Theme.Unite2"
         tools:targetApi="31">
         <activity
+            android:name=".Uyg10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Uyg9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Uyg8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_uy6"
+            android:exported="false" />
+        <activity
+            android:name=".uyg6Activity"
+            android:exported="false" />
+        <activity
             android:name=".SS65"
             android:exported="false" />
         <activity
